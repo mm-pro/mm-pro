@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Full-Stack Software developer, web thinkerer.
+- 👋 Hi, I’m Full-Stack Software developer, web thinkerer, coding Owl.
 - 👀 I’m very interested in the creative combination of AI and Web3.
 - 🌱 I’m currently learning about AI cutting-edge technologies like Tensorflow/Keras, n8n.io, Dify, Hugging face.
 - 💞️ I’m looking to work with Senior AI Software Engineer.
