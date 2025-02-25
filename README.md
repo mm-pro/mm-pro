@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Full-Stack Software developer, web thinkerer, coding Owl.
 - 👀 I’m very interested in the creative combination of AI and Web3.
-- 🌱 I’m currently learning about AI cutting-edge technologies like Tensorflow/Keras, n8n.io, Dify, Hugging face.
+- 🌱 I’m currently learning about AI cutting-edge technologies and AI Agents Tools like Tensorflow/Keras, Hugging face, n8n.io, make.com, Synthflow AI, Vapi AI.
 - 💞️ I’m looking to work with Senior AI Software Engineer.
 - 😄 Pronouns: XY
 - ⚡ Fun fact: Video game, Football, Body training, Travelling
