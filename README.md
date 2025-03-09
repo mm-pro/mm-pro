@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Coding Owl.
-- 🌱 I’m currently learning about AI cutting-edge technologies and AI Agents Tools like Tensorflow/Keras, Hugging face, n8n.io, make.com, Synthflow AI, Vapi AI.
+- 🌱 I’m currently learning about AI cutting-edge technologies and AI Agents Tools.
 - 💞️ I’m looking to work with Senior AI Software Engineer.
 - 😄 Pronouns: XY
 - ⚡ Fun fact: Video game, Football, Body training, Travelling
