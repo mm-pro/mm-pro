@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Coding Owl.
+- 👋 Hi, I’m Coding Owl. I have much experiences in web3 game or gambling app development.
 - 🌱 I’m currently learning about AI cutting-edge technologies and AI Agents Tools.
 - 💞️ I’m looking to work with Senior AI Software Engineer.
 - 😄 Pronouns: XY
