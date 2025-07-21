@@ -3,7 +3,7 @@
 -  I'm also jump into vibe coding world (Lovable, Cursor, Bolt.new, Firbase Studio etc), it would be new fashion in the future coding.
 -  I’m looking to work with Senior AI Software Engineer in large AI App Development.
 -  Pronouns: XY
--  Fun fact: Video game, Football, Traveling, Biology
+-  Fun fact: Video game, Football, Traveling, Boxing
 
 <!---
 mm-pro/mm-pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
