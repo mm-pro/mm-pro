@@ -1,9 +1,9 @@
-- 👋 Hi, I have 7+ years experiences in web & mobile app development.
--  I love React/Next.js and Python/Django. You know, Django is the best back-end framework in the world. And I also love Java/Spring Boot - Powerful Tool.
--  I'm also jump into vibe coding world (Lovable, Cursor, Bolt.new etc), it would be new fashion in the future coding.
--  I’m looking to work with Senior AI Software Engineer in large AI App Development.
+- 👋 Hi, I have 7+ years experiences in Web & Mobile App development.
+-  ## Designing awesome software architectures is my excellence! 💪
+-  Tech Scope: React/Next, Django, Java/Spring Boot, QA Testing
 -  Pronouns: XY
 -  Fun fact: Video game, Football, Traveling, Boxing
+-  I'm also jump into vibe coding world (Lovable, Cursor, Bolt.new etc), This is new coding type right now.
 
 <!---
 mm-pro/mm-pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
