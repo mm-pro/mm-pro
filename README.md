@@ -1,6 +1,6 @@
 - 👋 Hi, I have 7+ years experiences in Web & Mobile App development.
 -  ## Designing awesome software architectures is my excellence! 💪
--  Tech Scope: React/Next, Python/Django, Java/Spring Boot, Flutter, QA Testing
+-  Tech Scope: JS/TS, React/Next, Angular, Python/Django, C#/.NET, Flutter, QA Testing
 -  Pronouns: XY
 -  Fun fact: Video game, Football, Traveling, Boxing
 -  I'm also jump into vibe coding world (Lovable, Cursor, Bolt.new etc), This is new coding type right now.
