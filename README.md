@@ -1,5 +1,5 @@
 - 👋 Hi, I have 7+ years experiences in Web & Mobile App development.
-- Tech Scope: JS/TS, React/Next, Angular, Vue, Python/Django, C#/.NET, Flutter, QA Testing
+- Tech Scope: JS/TS, React/Next, Angular, Vue, Node.js, Python/Django/FastAPI, Flutter, QA Testing
 -  ## Read this funny story!😄
     " Hey there! If you know anything about software development, you’ll know that software architecture is like the secret sauce – it’s the brain AND the backbone of any project.
    Seriously, it’s so important, if you mess it up, your project will crash harder than my grandma’s old computer!
