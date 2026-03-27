@@ -1,5 +1,5 @@
 - 👋 Hi, I have 7+ years experiences in Web & Mobile App Development. 5+ yrs Full-Stack Experience.
-- Tech Scope: JS/TS, React/Next, Angular, Vue, Sveltekit, Node.js, Python/Django/FastAPI, Flutter, QA Testing
+- Tech Scope: JS/TS, React/Next, Angular, Vue, Sveltekit, PHP/Laravel, Node.js, Python/Django/FastAPI, Flutter, QA Testing
 - Currently on a journey of Java world.
 -  ## Read this funny story!😄
     " Hey there! If you know anything about software development, you’ll know that software architecture is like the secret sauce – it’s the brain AND the backbone of any project.
