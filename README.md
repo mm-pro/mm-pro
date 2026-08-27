@@ -1,4 +1,4 @@
-- 👋 Hi, I have 7+ years experiences in Web & Mobile App Development. 5+ yrs Full-Stack Experience.
+- 👋 Hi, I have 7+ years experiences in Software engineering. 5+ yrs Full-Stack Web Development.
 - Tech Scope: JS/TS, React/Next, Angular, Vue, Sveltekit, PHP/Laravel, Node.js, Python/Django/FastAPI, Flutter, QA Testing
 - Currently on a journey of Java world.
 -  ## Read this funny story!😄
